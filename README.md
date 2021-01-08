@@ -1,2 +1,2 @@
 # projeto-guanabara-analise-num
-Site para análise de números inseridos pelo usuário.
+Projetos de front end que fiz durante o curso do youtuber Gustavo Guanabara
